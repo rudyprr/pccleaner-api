@@ -1,0 +1,15 @@
+{
+    "specific-files": {
+        "params": {
+            "target_path": "C:\\Users\\Rudy\\Desktop\\folder_test",
+            "prefixDate": "11/10/2025",
+            "prefixDate_format": "%d-%m-%Y",
+            "prefix": "TEST",
+            "extensions": [
+                ".txt",
+                ".bat"
+            ],
+            "date_depth": "1d"
+        }
+    }
+}
