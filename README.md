@@ -1,4 +1,4 @@
-# PCCLEANER-API
+# PCCleaner-API
 
 Secure Node.js API using Express.js.
 Allows you to manage cleaning actions on a PC.
